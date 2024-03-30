@@ -1,6 +1,9 @@
 # Power Bike Sales Performance Analysis
 
-### About the Power Bike Company:
+
+![](intro_imagex.jpg)                             
+
+### About the Company:
 This power bike company deals in sales of power bikes and their accessories. They cover six regions with their product which are Australia, United States, Canada, France, Germany and the United Kingdom.
 The Power-Bike is designed for luxury, to provide a powerful and efficient ride. Characterized by its lightweight frame, low center of gravity and large wheel, these power-bikes are equipped with powerful speed cars and the flexibility of bikes, allowing them to reach higher speeds than regular bicycles. It allows you zip through traffic in record time. It's a great sport!  I’m engaged to help them analyze and measure their sales performance across a defined period to gain valuable insights into product sales, geographical locations and overall sales/business advice. Making sure your sales performance is top-notch isn't just something nice to have. It's a must in today's fiercely competitive business world.
 
