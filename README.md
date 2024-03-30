@@ -1,7 +1,7 @@
 # Power Bike Sales Performance Analysis
 
 
-![](intro_imagex.jpg)                             
+![](Intro_imagex.jpg)![](Intro_Image1.jpg)                            
 
 ### About the Company:
 This power bike company deals in sales of power bikes and their accessories. They cover six regions with their product which are Australia, United States, Canada, France, Germany and the United Kingdom.
@@ -10,8 +10,8 @@ The Power-Bike is designed for luxury, to provide a powerful and efficient ride.
 ### Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#Data-sources)
-- [General Business Advice/Recommendations for the Power Bike Company](#General-Business-Advice/Recommendations-for-the-Power-Bike-Company)
+- [Data Sources](#Data-Sources)
+- [Recommendations/General Business Advice for the Power Bike Company:](#Recommendations-General-Business-Advice-for-the-Power-Bike-Company:)
 
 
 ### Project Overview
@@ -24,7 +24,7 @@ Sales Data: The primary dataset used for this analysis is the “powerbike_sales
 
 
 ### Tools
--	Excel – Data Cleaning [Download here] (https://microsoft.com)
+-	Excel – Data Cleaning 
 -	Excel – Data Analysis
 -	Excel Dashboard – Creating reports.
   
@@ -33,15 +33,20 @@ In the initial data preparation phase, we performed the following tasks:
 Data loading and inspection.
 Handling missing values.
 Data cleaning and formatting.
+![](Dataset.png)
+
 
 ### Exploratory Data Analysis (EDA)
 EDA involves exploring the data to answer key questions, such as:
+
 What is the overall sales trend?
 What products are top sellers?
 What are the five top selling countries?
 
 ### Data Analysis
 This consists of some pivot tables, slicers, charts and other features worked with.
+
+![](Top_Countries_Revenue_profit.png)
 
 ### Results/Findings:
 *Insights from the dashboard are as follows:*
@@ -52,7 +57,7 @@ This consists of some pivot tables, slicers, charts and other features worked wi
 5.	Top Performing Products: Identifying the top five performing products can help allocate resources effectively. These products likely have strong demand and profitability, indicating an area of strength for the company.
 6.	Under-Performing Products:  Recognizing the under-performing products is crucial for strategic decision making. It may be necessary to assess the reasons behind their poor performance and consider adjustments to improve sales or discontinue unprofitable products.
 
-### General Business Advice/Recommendations for the Power Bike Company:
+### Recommendations/General Business Advice for the Power Bike Company:
 1.	Market Focus: Capitalize on the success in top-performing countries by investing in targeted marketing campaigns, customer engagement strategies, and product customization to meet local preferences.
 2.	Product Strategy: Allocate resources efficiently by focusing on the top-performing products to maximize sales and profitability. Conduct market research to understand customer needs and trends and innovate product offerings accordingly.
 3.	Cost Efficiency: Continue to monitor and optimize unit costs to maintain a healthy profit margin. Implement cost-saving measures without compromising product quality or customer satisfaction.
