@@ -68,4 +68,16 @@ By Leveraging the insights from the dashboard and implementing these strategic r
 
 
 
+ ## Challenges encountered and overcoming them:
+My experience with data Protection in Excel and creating an interactive dashboard is a good example of perseverance and problem-solving.
+### Learning data protection in excel: 
+- I encounter challenges with unhiding sheets in Excel after creating an interactive dashboard which i wanted to post on github.
+- This issue highlighted the importance of data protection and privacy considerations in my work.
+### Overcoming the challenges:
+ - Despite the initial setbacks in unhiding the sheets, i proactively sort for solutions through available options in Excel, YouTube tutorials and seeking help on other platforms like Reddit.
+ - The roadblocks i faced including the Microsoft restrictions on solutions due to data protection concerns, tested my determination to find a resolution. 
+
+
+
+
 
