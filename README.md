@@ -29,7 +29,7 @@ Sales Data: The primary dataset used for this analysis is the “powerbike_sales
 -	Excel Dashboard – Creating reports.
   
 Data Cleaning/Preparation
-In the initial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, i performed the following tasks:
 Data loading and inspection.
 Handling missing values.
 Data cleaning and formatting.
