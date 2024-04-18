@@ -49,6 +49,9 @@ This consists of some pivot tables, slicers, charts and other features worked wi
 ![](Top_Countries_Revenue_profit.png)
 
 ### Results/Findings:
+
+[Click here to visit the dashboard](Sales_dashboad_Report.xlsx)
+
 *Insights from the dashboard are as follows:*
 1.	Total Sales and Revenue: The company achieved total sales of $95,176,318 with a revenue of $85,271,008, indicating a profit margin of 68%. This suggests that the company has been successful in generating revenue and maintaining a healthy profit margin.
 2.	Total Unit Cost and Profit Margin: The total unit cost of $30, 214,112 in comparison to the total revenue indicates efficient cost management, resulting in a high profit margin of 68%. This demonstrates good control over operational costs.
