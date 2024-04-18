@@ -1,7 +1,7 @@
 # Power Bike Sales Performance Analysis
 
 
-![](Intro_imagex.jpg)![](Intro_Image1.jpg)                            
+![](Intro_imagex.jpg)![](Intro_Imagex.jpg)                            
 
 ### About the Company:
 This power bike company deals in sales of power bikes and their accessories. They cover six regions with their product which are Australia, United States, Canada, France, Germany and the United Kingdom.
