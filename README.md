@@ -50,7 +50,7 @@ This consists of some pivot tables, slicers, charts and other features worked wi
 
 ### Results/Findings:
 
-[Click here to visit the dashboard](Sales_dashboad_Report.xlsx)
+[Click here to view the dashboard](Sales_dashboad_Report.xlsx)
 
 *Insights from the dashboard are as follows:*
 1.	Total Sales and Revenue: The company achieved total sales of $95,176,318 with a revenue of $85,271,008, indicating a profit margin of 68%. This suggests that the company has been successful in generating revenue and maintaining a healthy profit margin.
