@@ -17,7 +17,7 @@ The Power-Bike is designed for luxury, to provide a powerful and efficient ride.
 ### Project Overview
 ____
 
-This data analysis project aims to provide insights into the sales performance of a power bike company over the past years (2011 to 2016). By analyzing various aspects of the sales data, i seek to identify sales performance, make data driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project analyzed sales performance data from 2011 to 2016 to identify trends, optimize sales strategies, and enhance customer engagement.
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the “powerbike_sales_data.csv” file, containing detailed information about each sale made by the company.
